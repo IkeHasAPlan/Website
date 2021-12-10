@@ -19,5 +19,16 @@ since.</p>
 mean I don't still FIND time to indulge. WHen I do, I strictly game on my PC. At the moment, most
 of my game time is spent in Overwatch, Hearthstone, or most recently, Diablo II Resurrected (I
 like Blizzard if you can't tell :)).</p>
+   
+<h3> Some of my favorite games include:</h3>
+    
+    <ul>
+      <li>Starcraft II</li>
+      <li>Bioshock</li>
+      <li>Terraria</li>
+      <li>Minecraft</li>
+      
+      
+    
     
     
