@@ -20,7 +20,7 @@
     
 <p> To newcomers, this whole concept must seem strange. Why sacrifice a whole summer for band? Why pay so much money to compete? How competitive are these groups?</p>
 
-    <p>To clarify, here is a video of Carolina Crown's 2018 show Beast.</p>
+<p>To clarify, here is a video of Carolina Crown's 2018 show Beast.</p>
       
 <p>There are two competitive pools that Corps can compete in. These include World Class and Open Class. Here are some corps from both divisions!</p>
   
