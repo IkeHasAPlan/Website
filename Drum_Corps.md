@@ -1,10 +1,9 @@
-<!DOCTYPE html>
+
 <html>
   <h1>
     Drum Corps International
   </h1>
   <body>
-  
     <h3>
       Other pages:
     </h3>
