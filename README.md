@@ -28,7 +28,7 @@ You can learn more about St. Joseph here!
     
 It's a small town, yes, but it's my home and I love it with all my heart.</p>
     
-    <h6> This website was constructed for my IT 1000 class at the University of Missouri</h6>
+<h6> This website was constructed for my IT 1000 class at the University of Missouri</h6>
     
     
 
