@@ -6,7 +6,7 @@
       Hello, I'm Isaac Rivera, and this is my website
     </h1>
   </head>
-  <img src='741922-7ef9e5ca-091c-477e-93e3-89829f18c684-0-IMG_9371.JPG' alt='me'>
+  <img src='IMG_9371.JPG' alt='me'>
   
   <body>
     <h2>
