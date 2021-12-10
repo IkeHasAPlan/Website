@@ -1,5 +1,11 @@
 <html>
   <body>
+     <ul>
+      <li><a href="README.md">Homepage</a></li>
+      <li><a href="Drum_Corps.md">Drum Corps International</a></li>
+      <li><a href="Video_Games.md">Video Games</a></li>
+      <li><a href="Music.md">Music</a></li>
+    </ul>
     <h1>Movies and my life</h1>
     
 <p>Over quarantine 2020, movies quickly became one of my newfound loves. I swear there would
