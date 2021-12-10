@@ -22,11 +22,12 @@ like Blizzard if you can't tell :)).</p>
    
 <h3> Some of my favorite games include:</h3>
     
-    <ul>
-      <li>Starcraft II</li>
-      <li>Bioshock</li>
-      <li>Terraria</li>
-      <li>Minecraft</li>
+<ul>
+ <li>Starcraft II</li>
+ <li>Bioshock</li>
+ <li>Terraria</li>
+ <li>Minecraft</li>
+</ul>
       
       
     
