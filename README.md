@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+  <title> My website :)</title>
   <head>
     <h1>
       Hello, I'm Isaac Rivera, and this is my website
@@ -16,11 +17,10 @@
       <li><a href="Movies.md">Movies and Videography</a></li>
       <li><a href="Music.md">Music</a></li>
     </ul>
-    
-    
-    <h2>
+
+    <h3>
       About me:
-    </h2>
+    </h3
     
     <p1>
       I am an undergraduare engineering student at the University of Missouri. I am working towards my bachelors degree in information technology. I am heavily involved with Marching Mizzou, and am a proud member of the university snare line!
