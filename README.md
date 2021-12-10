@@ -22,10 +22,10 @@
       About me:
     </h3
     
-    <p1>
+    <p>
       I am an undergraduare engineering student at the University of Missouri. I am working towards my bachelors degree in information technology. I am heavily involved with Marching Mizzou, and am a proud member of the university snare line!
      
-My hometown is St. Joseph Missouri, where I attended Central High School. 
+      My hometown is St. Joseph Missouri, where I attended Central High School. </p>
     
     
 
