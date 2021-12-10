@@ -40,6 +40,6 @@ want this to be my "Magnum Opus" if you will.</p>
 <p>So with that, I got some buddies together and made a cheesy high school flick about a camping 
 trip gone horribly wrong... </p>
     
-<p>Appropriately titled The Trip, you can watch it here.</p>
+<p>Appropriately titled <i>The Trip</i>, you can watch it here.</p>
 
 <h6>This website was constructed for my IT 1000 class at the University of Missouri</h6>
