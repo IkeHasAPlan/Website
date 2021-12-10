@@ -22,7 +22,12 @@
 
 <p>To clarify, here is a video of Carolina Crown's 2018 show Beast.</p>
       
-<p>There are two competitive pools that Corps can compete in. These include World Class and Open Class. Here are some corps from both divisions!</p>
+<h3> My experience with Drum Corps</h3>
+    
+<p>I marched Drum Corps with the Colt Cadets in 2019. Our show was titled "Of a Feather" and was about birds. I have since gone on to participate in indoor drumline, and now university band. I am auditioning again this year, and hope to spend my summer with the Troopers Drum and Bugle Corps!</p>
+    
+<h6> This website was constructed for my IT 1000 class at the University of Missouri</h6>
+    
   
   
   
